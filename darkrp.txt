@@ -1,8 +1,8 @@
 
-"skeleton"
+darkrp
 {
 	"base" 			"helix"
-	"title" 		"Skeleton"
+	"title" 		"DarkRP"
 	"author" 		"nebulous"
 	"menusystem"	"1"
 }
